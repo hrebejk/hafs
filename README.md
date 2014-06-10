@@ -1,4 +1,4 @@
 hafs
 ----
 
-terka, mysak, eliska, lucka
+krecek
