@@ -1,5 +1,5 @@
 haFs
 ----
 
-[2](ftp://github.com)
+[2](test)
 
